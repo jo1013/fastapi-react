@@ -381,3 +381,16 @@ docker-compose file.
 
 Contributing is more than welcome. Please read the [Contributing
 doc](CONTRIBUTING.md) to find out more.
+
+
+
+project_slug [fastapi-react-project]: 
+project_name [fastapi-react-project]: 
+port [8000]: 
+postgres_user [postgres]: 
+postgres_password [password]: 
+postgres_database [app]: 
+superuser_email [admin@fastapi-react-project.com]: tkdah0@gmail.com
+superuser_password [password]: digna147
+secret_key [super_secret]: 7H9uoJ0BYFMJeC2GgdVE
+
